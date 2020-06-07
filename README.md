@@ -65,8 +65,6 @@
 
 - **睡眠：异常** 
 
-
-
 [![联想M910Q 黑苹果折腾系列① 成果展示 opencore EFI分享](https://qnam.smzdm.com/202006/05/5ed9cf58bb4d71069.png_e680.jpg)](https://post.smzdm.com/p/a78zgzko/pic_15/)
 
 睡眠问题有点难搞，[黑果小兵有一台M710Q](https://github.com/daliansky/Lenovo-M710Q-Hackintosh)，也是睡眠没折腾好。现在直接关掉自动睡眠，BIOS开启键盘开机，ALT+P直接开机很方便。
@@ -74,3 +72,4 @@
 ## 使用感受 
 
 ###     除了睡眠其他都完美了，日常使用15W左右功耗，不关机压力不大，晚上直接关机早上键盘开机也很方便，基本上不会折腾了就这样用，如果有搞定睡眠请大力PM我。
+

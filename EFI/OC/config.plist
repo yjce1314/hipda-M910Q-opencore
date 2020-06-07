@@ -22,14 +22,6 @@
 				<key>Path</key>
 				<string>SSDT-PMC.aml</string>
 			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>SSDT-GPRW.aml</string>
-				<key>Path</key>
-				<string>SSDT-GPRW.aml</string>
-				<key>Enabled</key>
-				<false/>
-			</dict>
 		</array>
 		<key>Block</key>
 		<array>
@@ -611,27 +603,27 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>CleanNvram.efi</string>
+				<string>CFGLock.efi</string>
 				<key>Path</key>
-				<string>CleanNvram.efi</string>
+				<string>CFGLock.efi</string>
 				<key>Enabled</key>
 				<true/>
 				<key>Arguments</key>
 				<string></string>
 				<key>Name</key>
-				<string>CleanNvram.efi</string>
+				<string>CFGLock.efi</string>
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>CFGLock.efi</string>
+				<string>CleanNvram.efi</string>
 				<key>Path</key>
-				<string>CFGLock.efi</string>
+				<string>CleanNvram.efi</string>
 				<key>Enabled</key>
 				<true/>
 				<key>Arguments</key>
 				<string></string>
 				<key>Name</key>
-				<string>CFGLock.efi</string>
+				<string>CleanNvram.efi</string>
 			</dict>
 		</array>
 	</dict>
